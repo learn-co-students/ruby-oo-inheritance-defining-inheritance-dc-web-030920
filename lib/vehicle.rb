@@ -1,4 +1,4 @@
-class Vehicle
+class  Vehicle
 
     attr_accessor :wheel_number, :wheel_size
 
